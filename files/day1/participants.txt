@@ -1,4 +1,4 @@
-﻿Amenah Fairouz Abdulkarim, Kuwait University
+Amenah Fairouz Abdulkarim, Kuwait University
 Anthony T. Quickel
 Christian Mauder
 Konrad Hirschler, FU Berlin
@@ -12,7 +12,7 @@ Gowaart Van Den Bossche
 Shuaib Ally
 Stephanie Luescher
 Víctor De Castro León
-Vincent Chen
+Vincent Chen, The Ohio State University
 Kenneth Goudie
 Zacharie de Pierrepont
 Mohamed Maslouh
