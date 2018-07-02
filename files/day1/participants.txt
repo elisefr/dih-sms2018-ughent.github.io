@@ -1,4 +1,4 @@
-Amenah Fairouz Abdulkarim
+﻿Amenah Fairouz Abdulkarim
 Anthony T. Quickel
 Christian Mauder
 Konrad Hirschler
@@ -12,7 +12,7 @@ Gowaart Van Den Bossche
 Shuaib Ally
 Stephanie Luescher
 Víctor De Castro León
-Vincent Chen
+Vincent Chen, The Ohio State University
 Kenneth Goudie
 Zacharie de Pierrepont
 Mohamed Maslouh
